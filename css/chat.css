@@ -1,0 +1,30 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+.container{
+
+width:  500px;
+height: 500px;
+background-color: #222;
+padding: 70px;
+}
+
+.superior{
+width:  50%;
+height: 70%;
+background-color: #c0c0c0;
+padding: 40px;
+
+}
+
+.campos{
+
+width:  80%;
+height: 50%;
+background-color: #c0c000;
+padding-bottom: 3%;
+
+
+}

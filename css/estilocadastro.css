@@ -1,0 +1,55 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+header{
+	
+	background: rgba(0,0,0,1);
+}
+
+.logo{
+	max-width: 300px;
+	margin-left: 30px;
+
+}
+
+.textobemvindo{
+color:#01DFD7;
+margin-right: 380px;
+
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+
+img{max-width: 100%}
+
+label{
+color:#08298A;
+
+}
+.login{
+margin-top: 60px;
+margin-left: 150px;
+}
+.botaologin{
+color: black;
+background-color: #01DFD7;
+}
+.btncadastro{
+color: white;
+	background: black;
+}
